@@ -12,7 +12,7 @@
 	<artifactId>13-SBMS-RedisCashe</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>13-SBMS-RedisCashe</name>
-	<description>13-SBMS-RedisCashe</description>
+	<description>13-SBMS-RedisCashea</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
